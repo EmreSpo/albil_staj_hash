@@ -1,1 +1,1 @@
-#### Albil staj ödevleri - Hash Alma
+#### Albil Staj Ödevleri - Hash Alma
