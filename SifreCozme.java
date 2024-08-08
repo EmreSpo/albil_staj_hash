@@ -4,7 +4,7 @@ import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
-public class StajSifreCozme {
+public class SifreCozme {
     public static void main(String[] args) {
         try {
             // Şifreli dosyayı oku
