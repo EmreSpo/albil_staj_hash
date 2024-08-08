@@ -3,7 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.security.MessageDigest;
 
-public class StajHashAlma2 {
+public class HashAlma2 {
 
     public static void main(String[] args) {
         try {
