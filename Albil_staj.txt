@@ -1,0 +1,15 @@
+Hash işlemi, verilerin belirli bir uzunluktaki sabit boyutlu özetini (hash değeri) oluşturmak için kullanılan bir yöntemdir.
+Bu özet, genellikle bir veri setinin bütünlüğünü doğrulamak veya verileri hızlı bir şekilde aramak için kullanılır. 
+Hash işlemi genellikle bir hash fonksiyonu aracılığıyla gerçekleştirilir.
+Hash Fonksiyonlarının Özellikleri
+Deterministik Olma: Aynı giriş değeri her zaman aynı hash değerini üretir.
+Hız: Hash fonksiyonu hızlı çalışmalıdır.
+Çıkış Boyutu: Hash fonksiyonu, giriş verisinin boyutundan bağımsız olarak sabit boyutlu bir çıktı üretir.
+Çarpışma Direnci: Farklı giriş değerlerinin aynı hash değerini üretme olasılığı düşüktür.
+Dağıtım: Hash fonksiyonu, giriş verilerini mümkün olduğunca rastgele dağıtarak hash değerlerini üretmelidir.
+Hash İşleminin Kullanım Alanları
+Veri Bütünlüğü Kontrolü: Dosyaların veya verilerin değiştirilip değiştirilmediğini kontrol etmek için hash değerleri kullanılır.
+Veritabanı Aramaları: Veritabanlarında hızlı arama ve veri erişimi için hash tabloları kullanılır.
+Şifreleme: Parolaları güvenli bir şekilde saklamak için hash fonksiyonları kullanılır. 
+Şifrelerin hash değerleri saklanır ve doğrulama sırasında hash değeri karşılaştırılır.
+Dijital İmzalar: Veri veya belgelerin bütünlüğünü ve doğruluğunu doğrulamak için dijital imza algoritmaları hash fonksiyonlarını kullanır.
